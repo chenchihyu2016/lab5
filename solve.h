@@ -17,6 +17,7 @@ public:
 	HugeInt operator-(const HugeInt&);
 private:
 	string content;
+	char sign_;
 	int size;
 	int* ptr;
 };
