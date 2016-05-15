@@ -1,0 +1,10 @@
+命令稿啟動於 2016年05月15日 (週日) 18時42分56秒
+]0;chenchihyu@chenchihyu-VirtualBox: ~/lab5chenchihyu@chenchihyu-VirtualBox:~/lab5$ make
+g++ main.o solve.o -std=c++11 -o lab5
+]0;chenchihyu@chenchihyu-VirtualBox: ~/lab5chenchihyu@chenchihyu-VirtualBox:~/lab5$ ./lab5 
+798456
+798456+28825252=29623708
+314159265358978525390
+]0;chenchihyu@chenchihyu-VirtualBox: ~/lab5chenchihyu@chenchihyu-VirtualBox:~/lab5$ 
+命令稿已於 2016年05月15日 (週日) 18時43分07秒
+ 完成
